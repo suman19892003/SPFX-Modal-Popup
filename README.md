@@ -1,14 +1,14 @@
-# spfx-crude
+# spfx-Modal PopUp
 
 ## Summary
 
-Short summary on functionality and used technologies.
+It performs following task.
+1. Get files from SharePoint Library
+2. Open modal PopUp on button click
+3. Update metadata of SharePoint Library
 
-[picture of the solution in action, if possible]
+![image](https://user-images.githubusercontent.com/45258794/131077224-60488971-3b9e-496e-9eb3-e854237ad938.png)
 
-## Used SharePoint Framework Version
-
-![version](https://img.shields.io/npm/v/@microsoft/sp-component-base/latest?color=green)
 
 ## Applies to
 
@@ -16,10 +16,6 @@ Short summary on functionality and used technologies.
 - [Microsoft 365 tenant](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
 
 > Get your own free development tenant by subscribing to [Microsoft 365 developer program](http://aka.ms/o365devprogram)
-
-## Prerequisites
-
-> Any special pre-requisites?
 
 ## Solution
 
